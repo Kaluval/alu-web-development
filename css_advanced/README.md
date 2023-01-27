@@ -1,0 +1,3 @@
+Great! You can use the CSS to add visual design elements to your HTML, such as colors, fonts, and layout. Figma is a popular design tool that allows for collaboration and sharing of design files. You can use the link you provided to access the designer file and make any necessary changes to the CSS in order to style your HTML.
+[https://www.figma.com/file/yRdSGrt6hf1WYWIz8KV46f/Homepage?node-id=0%3A1&t=VKdlc4njFvUZMJ6V-0]
+image.png
